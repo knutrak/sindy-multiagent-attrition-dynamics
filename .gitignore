@@ -1,0 +1,14 @@
+# OS / editor noise
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
